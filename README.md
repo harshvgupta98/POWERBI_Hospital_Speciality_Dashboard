@@ -116,8 +116,8 @@ Two monthly snapshot tables rather than a traditional star schema:
 
 **Hospital Summary**
 
-![Hospital Summary](Snapshot_Hospital_Summary.png)
+![Hospital Summary](Snapshot_Hospital.png)
 
 **Speciality Analysis**
 
-![Speciality Analysis](Snapshot_Speciality_Analysis.png)
+![Speciality Analysis](Snapshot_Speciality.png)
