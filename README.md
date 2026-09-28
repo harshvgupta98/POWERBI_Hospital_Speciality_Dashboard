@@ -10,6 +10,12 @@ A Power BI dashboard analysing paediatric outpatient waiting list data in Irelan
 
 ![Hospital Summary](Snapshot_Hospital.png)
 
+
+**Speciality Analysis**
+
+![Speciality Analysis](Snapshot_Speciality.png)
+
+
 ---
 
 ## Short Description
@@ -119,7 +125,3 @@ Two monthly snapshot tables rather than a traditional star schema:
 5. On the Speciality Analysis page, use the Speciality slicer to isolate one speciality
 
 
-
-**Speciality Analysis**
-
-![Speciality Analysis](Snapshot_Speciality.png)
