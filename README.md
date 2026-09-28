@@ -4,6 +4,14 @@ A Power BI dashboard analysing paediatric outpatient waiting list data in Irelan
 
 ---
 
+## Dashboard Preview
+
+**Hospital Summary**
+
+![Hospital Summary](Snapshot_Hospital.png)
+
+---
+
 ## Short Description
 
 A Power BI dashboard built to track how the paediatric hospital waiting list is changing over time. It looks at total waiting list size, how many patients are waiting over 12 months, and how different specialities compare, using publicly available NTPF data.
@@ -110,13 +118,7 @@ Two monthly snapshot tables rather than a traditional star schema:
 4. Use the Year, Quarter, and Month slicers to change the selected snapshot
 5. On the Speciality Analysis page, use the Speciality slicer to isolate one speciality
 
----
 
-## Dashboard Preview
-
-**Hospital Summary**
-
-![Hospital Summary](Snapshot_Hospital.png)
 
 **Speciality Analysis**
 
